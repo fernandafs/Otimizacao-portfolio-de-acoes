@@ -2,4 +2,4 @@
 
 Projeto de programação matemática - UFABC
 
-Otimização, validação de riscos e retornos para ações brasileiras
+Otimização, validação de riscos e retornos para ações brasileiras com utilização de python
